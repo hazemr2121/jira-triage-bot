@@ -1,0 +1,201 @@
+{
+  "issues": [
+    {
+      "key": "SUP-101",
+      "fields": {
+        "summary": "Cannot login to the loan origination portal",
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "My account got locked after the password reset. Please grant access again. My email is ahmed.k@example.com"
+                }
+              ]
+            }
+          ]
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "labels": []
+      }
+    },
+    {
+      "key": "SUP-102",
+      "fields": {
+        "summary": "Customer report page is very slow",
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "The monthly customer report takes forever to load, sometimes ends with a timeout after 2 minutes."
+                }
+              ]
+            }
+          ]
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "labels": []
+      }
+    },
+    {
+      "key": "SUP-103",
+      "fields": {
+        "summary": "Error 500 when exporting to Excel",
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Export button fails with an exception. Steps: open Reports > Export > Excel. Started after Sunday's release."
+                }
+              ]
+            }
+          ]
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "High"
+        },
+        "labels": []
+      }
+    },
+    {
+      "key": "SUP-104",
+      "fields": {
+        "summary": "How do I add a new field to the onboarding form?",
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Is it possible to add a field for the customer's second phone? Where can I find a guide?"
+                }
+              ]
+            }
+          ]
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "labels": []
+      }
+    },
+    {
+      "key": "SUP-105",
+      "fields": {
+        "summary": "Duplicate branch records in the dashboard",
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "The Maadi branch appears twice with incorrect totals, please correct the data."
+                }
+              ]
+            }
+          ]
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Medium"
+        },
+        "labels": []
+      }
+    },
+    {
+      "key": "SUP-106",
+      "fields": {
+        "summary": "Request to add dark mode to the internal portal",
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Would be nice to have a dark mode option for night-shift staff."
+                }
+              ]
+            }
+          ]
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "labels": []
+      }
+    },
+    {
+      "key": "SUP-107",
+      "fields": {
+        "summary": "Printer on 3rd floor",
+        "description": {
+          "type": "doc",
+          "version": 1,
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Not sure who to ask about this one. Call me on 01012345678."
+                }
+              ]
+            }
+          ]
+        },
+        "status": {
+          "name": "To Do"
+        },
+        "priority": {
+          "name": "Low"
+        },
+        "labels": []
+      }
+    }
+  ],
+  "isLast": true
+}
